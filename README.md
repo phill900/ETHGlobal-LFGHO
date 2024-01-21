@@ -6,6 +6,7 @@ Participacion en ETHGlobal LFGHO 2024 - Link: https://ethglobal.com/events/lfgho
 https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_loc=-333%2C-783%2C3043%2C1669%2C0_0&invitationId=inv_32d242e9-480f-49d9-ac14-010a320a2078 
 
 #PROYECTO
+
 Landingpage to Access to Services: https://guild.xyz/ekinox
 
 General Costumer Journey Resume
