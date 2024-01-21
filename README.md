@@ -20,12 +20,12 @@ https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_
 
 3. Certificado Soulbound token:
 
-Website to generate Certificate (Private not Public)
-https://app.unlock-protocol.com/certification?s=certified-user-for-ekinox 
+   a. Website to generate Certificate (Private not Public)
+   https://app.unlock-protocol.com/certification?s=certified-user-for-ekinox 
 
-Contract
-https://sepolia.etherscan.io/token/0x910577e336d9ce030346863e36701f15f6948d41 
-Contract: 0x910577e336d9CE030346863e36701F15f6948D41  
+   b. Contract
+      Link: https://sepolia.etherscan.io/token/0x910577e336d9ce030346863e36701f15f6948d41 
+      Contract: 0x910577e336d9CE030346863e36701F15f6948D41  
 
 4. Minter Cross-Chain Token (COPX)
    
