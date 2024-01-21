@@ -32,7 +32,12 @@ https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_
    - 
    
 6.  Minter Cross-Chain Token (COPX)
-7.   Vault COPX/GHO
+   Contrato:
+   Acronimo: COPX
+   Decimals: 18 - confirmar
+   Link:
+   
+8.   Vault COPX/GHO
 
 
 
