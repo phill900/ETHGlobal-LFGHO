@@ -21,7 +21,6 @@ General Costumer Journey Resume
       Compliance Risk: https://www.risksint.com/ 
 
 3.  Soulbound Certificate:
-
    a. Website to generate Certificate (Private not Public)
    https://app.unlock-protocol.com/certification?s=certified-user-for-ekinox 
 
