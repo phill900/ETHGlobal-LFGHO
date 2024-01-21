@@ -11,12 +11,12 @@ https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_
 
 2. Process Screening AML CFT
 
-a. On-chain: 
-- Go Plus:https://gopluslabs.io/malicious-address-detection
-- Eliptic.xyz 
+   a. On-chain: 
+      - Go Plus:https://gopluslabs.io/malicious-address-detection
+      - Eliptic.xyz 
 
-b. Off-Chain
-Compliance Risk: https://www.risksint.com/ 
+   b. Off-Chain
+      Compliance Risk: https://www.risksint.com/ 
 
 3. Certificado Soulbound token:
 
