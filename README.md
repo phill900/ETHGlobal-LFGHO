@@ -34,3 +34,10 @@ https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_
 6. Vault COPX/GHO
 
 
+
+Documentacion utilizada:
+- https://docs.chain.link/ccip
+- Documentación GHO: What Is GHO? | GHO Document Hub https://docs.gho.xyz/concepts/overview
+- Github de GHO: [GitHub - aave/gho-core] (https://github.com/aave/gho-core)
+
+
