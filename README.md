@@ -9,10 +9,9 @@ https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_
 Landingpage to Access to Services: https://guild.xyz/ekinox
 
 General Costumer Journey Resume
-1. Form to Tokenized User with Soulbound
-   https://ekinox.deform.cc/Token-Gating-Form 
 
-2.Screening AML CFT (On-chain
+1. Form to Tokenized User with Soulbound  https://ekinox.deform.cc/Token-Gating-Form 
+2. Screening AML CFT (On-chain
 
    a. On-chain: 
       - Go Plus:https://gopluslabs.io/malicious-address-detection
@@ -31,7 +30,7 @@ General Costumer Journey Resume
       Contract: 0x910577e336d9CE030346863e36701F15f6948D41  
 
 4. Form to create orders to Buy and Sell      
-https://kwsiwcx0prj.typeform.com/to/BpAk39VU
+   https://kwsiwcx0prj.typeform.com/to/BpAk39VU
    
 6. Cross-Chain Token Colombian Peso (COPX)
    Contrato:
@@ -40,7 +39,6 @@ https://kwsiwcx0prj.typeform.com/to/BpAk39VU
    Link:
    
 8. Vault COPX/GHO
-
 
 
 Documentacion utilizada:
